@@ -9,6 +9,7 @@ loadSavedButton.onclick = function() {
   // Load saved news articles.
 };
 
+
 loadNewButton.onclick = function() {
   // Load new news articles.
 };
